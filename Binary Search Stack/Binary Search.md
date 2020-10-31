@@ -1,5 +1,9 @@
 ## <center><font color=#5C4033>Binary Search</font></center>
 
+### <font color=#FF7F00>图示</font>
+![二分搜索](img/Binary_search_into_array.png)
+
+
 ### <font color=#FF7F00>Java代码</font>
 ```java
 public int binarySearch(int[] arr, int value){
